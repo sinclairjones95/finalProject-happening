@@ -1,4 +1,6 @@
-Group project for Web Application Development
+# Happening
+
+Final project for Web Application Development
 
 By:
 Evan Otero
